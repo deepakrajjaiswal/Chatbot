@@ -29,4 +29,4 @@ def get_bot_response():
 if __name__ == '__main__':
     # run() method of Flask class runs the application
     # on the local development server.
-    app.run(host="localhost", port=80, debug=True)
+    app.run(host="https://testingchating123.azurewebsites.net/", port=80, debug=True)
