@@ -25,8 +25,3 @@ def get_bot_response():
     return str(chat(user_text))
 
 
-# main driver function
-if __name__ == '__main__':
-    # run() method of Flask class runs the application
-    # on the local development server.
-    app.run(host="https://testingchating123.azurewebsites.net/", port=80, debug=True)
