@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Chatbotinventory'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BC60004EB054E4995046CE020F30258 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22CA57F8F65A48689ADCD59C1B02001B }}
