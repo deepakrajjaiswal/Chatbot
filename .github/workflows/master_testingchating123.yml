@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'testingchating123'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9FBA2FAEB2F5491ABA5CE505FAE11484 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE9B1AEC4F15487F85F028AF18347703 }}
